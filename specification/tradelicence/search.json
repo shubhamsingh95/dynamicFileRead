@@ -1,0 +1,9 @@
+{
+    "FileRead": {
+      "Name": "Textfield",
+      "props": {
+        "label": "application id",
+        "Search": true
+      }
+    }
+  }
